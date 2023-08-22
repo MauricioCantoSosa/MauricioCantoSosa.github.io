@@ -42,12 +42,10 @@ linkedin_username: mauriciocantososa
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I'm passionate about learning new stuff every day, but if something inspires me more than acquiring knowledge, is generating it. I build <mark>Machine Learning<mark> models with the purpose of having a positive “real” impact on any project I am working on. Each situation requires different solutions, my mission is to find the best one.
+  I started programming when I was in university, and by now, I have clocked thousands of hours coding. I crave the feeling of solving long and complex problems, nothing is more satisfying than your work having a real purpose that benefits people. 
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+  Overall, I’m a strong believer in the saying “Put your all in everything you do” and have continued to stand by it. I hope to be part of a team that really cares about making the best product for any situation.
 
 content:
   - title: Projects # Title for the section
@@ -146,9 +144,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      I have not taken the time to write more about myself on this section, but I will soon. Or maybe I'll just changed this and add a skills sections, who knows.
 
 # Footer
 footer_show_references: false
