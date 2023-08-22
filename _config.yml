@@ -10,9 +10,9 @@ name: Mauricio Canto Sosa
 title: Data Scientist
 email: maucs98@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number
+# phone: Your phone number
 # phone_title: Phone (Phone title override)
-website: Your website
+# website: Your website
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,14 +20,14 @@ darkmode: false
 
 # Social links
 github_username:  MauricioCantoSosa
-stackoverflow_username: "00000001"
-linkedin_username: Mauricio Canto Sosa
+# stackoverflow_username: "00000001"
+linkedin_username: mauriciocantososa
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
