@@ -120,7 +120,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         border: weak
         title: The Big Neural Data Project
         sub_title: Data Science Intern
@@ -134,7 +134,7 @@ content:
           
           - Analyzed datasets and created dashboards to communicate insights and to assist with data driven decision-making.
 
-      - layout: right
+      - layout: left
         title: The Big Neural Data Project
         sub_title: Data Science Intern
         caption: Jan 2019 - Dec 2019
@@ -152,14 +152,14 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         border: weak
         title: Lambton College
         sub_title: Graduate Degree in Artificial Intelligence and Machine Learning
         caption: Jan 2022 - Aug 2023
         description: | # this will include new lines to allow paragraphs
           Description In Progress.
-      - layout: top-right
+      - layout: left
         title: Universidad Politécnica de Yucatán
         sub_title: BSc Embedded Systems Engineering
         caption: Aug 2017 - May 2021
