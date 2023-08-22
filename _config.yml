@@ -75,6 +75,7 @@ content:
     layout: list
     content:
       - layout: right
+        border: weak
         title: The Big Neural Data Project
         sub_title: Data Science Intern
         caption: May 2020 - Apr 2021
@@ -86,6 +87,21 @@ content:
           medical professionals.
           
           - Analyzed datasets and created dashboards to communicate insights and to assist with data driven decision-making.
+
+      - layout: right
+        title: The Big Neural Data Project
+        sub_title: Data Science Intern
+        caption: Jan 2019 - Dec 2019
+        description: | # this will include new lines to allow paragraphs
+          -  Built the architecture of an SQL database and implemented a data pipeline to retrieve and store data from a Unity based
+             project, saving an approximate of 30 hours of monthly labor.
+
+          
+          - Performed EDA and created dashboards for project proposals and addressing business problems.
+          
+          - Designed and implemented multiple machine learning models for structured and semi-structured data to perform both
+            descriptive and predictive analytics.
+
           
   - title: Education
     layout: list
