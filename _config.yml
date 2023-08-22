@@ -107,13 +107,17 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: Lambton College
+        sub_title: Graduate Degree in Artificial Intelligence and Machine Learning
+        caption: Jan 2022 - Aug 2023
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Work In Progress.
+      - layout: top-right
+        title: Universidad Politécnica de Yucatán
+        sub_title: BSc Embedded Systems Engineering
+        caption: Aug 2017 - May 2021
+        description: | # this will include new lines to allow paragraphs
+          Work In Progress.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
