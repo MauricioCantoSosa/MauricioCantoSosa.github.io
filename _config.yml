@@ -79,13 +79,13 @@ content:
         sub_title: Data Science Intern
         caption: May 2020 - Apr 2021
         description: | # this will include new lines to allow paragraphs
-          Assisted in scientific research on behavioral decision making changes based on induced negative biases, and analyzed the
-          results.|
+          - Assisted in scientific research on behavioral decision making changes based on induced negative biases, and analyzed the
+          results.
           
-          Designed and implemented dozens of machine learning and deep learning models to provide diagnostic analytics to
-          medical professionals.|
+          - Designed and implemented dozens of machine learning and deep learning models to provide diagnostic analytics to
+          medical professionals.
           
-          Analyzed datasets and created dashboards to communicate insights and to assist with data driven decision-making.|
+          - Analyzed datasets and created dashboards to communicate insights and to assist with data driven decision-making.
           
   - title: Education
     layout: list
