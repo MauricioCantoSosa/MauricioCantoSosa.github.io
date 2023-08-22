@@ -104,10 +104,10 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-      - layout: left
+      - layout: center
         title: Check out my Github to see the rest of my projects.
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link: https://github.com/MauricioCantoSosa
+        link_text: Github Link
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -115,10 +115,8 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Here I just included some of my best projects (in my opinion), be sure to check out my <a href="https://github.com/MauricioCantoSosa">Github</a> to see the rest of my work.
   - title: Experience
     layout: list
     content:
