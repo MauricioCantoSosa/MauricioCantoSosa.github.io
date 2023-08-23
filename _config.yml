@@ -67,6 +67,17 @@ content:
           - title:  Github page for project
             icon: fab fa-github
             url: https://github.com/MauricioCantoSosa/DSAC-FG-MVP
+        quote: >
+          A simple webpage built using <mark>Streamlit</mark> to display the desired stock price over time along with a few <mark>Time Series Forecasts and Analysis</mark>.
+          An <mark>LSTM</mark> forecast architected using <mark>TensorFlow</mark>, a <mark>SARIMAX</mark> forecast using <mark>skforecast</mark>, and finally a forecast with
+          an additive regression model using <mark>Prophet</mark>. Some plots represent the Prophet’s model trend, seasonality and  holiday effects.
+
+          The data from the project was retrieved using Yahoo Finance <mark>API</mark> and then stored in an <mark>AWS S3</mark> bucket to be retrieved if the same stock was needed on
+          another time (A little redundant, but I wanted more experience with AWS). After the data was retrieved the forecasts and analysis were made and displayed in a dashboard-like
+          webpage hosted with Streamlit. 
+
+          The whole project was designed and written using <mark>OOP</mark> principles, and <mark>documented</mark> following <mark>PEP</mark> guidelines.
+
         description: | # this will include new lines to allow paragraphs
           Description about the project in progress.
       - layout: top-middle
