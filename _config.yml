@@ -54,37 +54,37 @@ content:
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project 1
-        link: Link to project
-        link_text: Link Text
+        title: Stock Trend Prediction and Analysis
+        link: https://github.com/MauricioCantoSosa/DSAC-FG-MVP
+        link_text: Link to Project
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/MauricioCantoSosa/DSAC-FG-MVP
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Description about the project in progress.
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project 2
-        link: Link to project
-        link_text: Link Text
+        title: Wikipedia Answering Chat-GPT
+        link: https://github.com/MauricioCantoSosa/Wikipedia-Answering-Bot
+        link_text: Link to Project
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/MauricioCantoSosa/Wikipedia-Answering-Bot
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Description about the work in progress.
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project 3
-        link: Link to project
-        link_text: Link Text
+        title: Emotion Recognition
+        link: https://github.com/MauricioCantoSosa/Machine-Learning-Algorithms-for-Image-Emotion-Classification
+        link_text: Link to Project
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/MauricioCantoSosa/Machine-Learning-Algorithms-for-Image-Emotion-Classification
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
       - layout: top-middle
@@ -92,7 +92,7 @@ content:
         link: https://github.com/MauricioCantoSosa
         link_text: Github Link
         description: | # this will include new lines to allow paragraphs
-                                         Here I just included some of my best projects (in my opinion), be sure to check out my <a href="https://github.com/MauricioCantoSosa">Github</a> to see the rest of my work.
+          Here I just included some of my best projects (in my opinion), be sure to check out my <a href="https://github.com/MauricioCantoSosa">Github</a> to see the rest of my work.
   - title: Experience
     layout: list
     content:
