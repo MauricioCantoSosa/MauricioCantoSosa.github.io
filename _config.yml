@@ -68,6 +68,9 @@ content:
             icon: fab fa-github
             url: https://github.com/MauricioCantoSosa/DSAC-FG-MVP
         quote: >
+          Yes, the cliché stock prediction project, but with a bit more effort.
+
+        description: | # this will include new lines to allow paragraphs
           A simple webpage built using <mark>Streamlit</mark> to display the desired stock price over time along with a few <mark>Time Series Forecasts and Analysis</mark>.
           An <mark>LSTM</mark> forecast architected using <mark>TensorFlow</mark>, a <mark>SARIMAX</mark> forecast using <mark>skforecast</mark>, and finally a forecast with
           an additive regression model using <mark>Prophet</mark>. Some plots represent the Prophet’s model trend, seasonality and  holiday effects.
@@ -77,9 +80,6 @@ content:
           webpage hosted with Streamlit. 
 
           The whole project was designed and written using <mark>OOP</mark> principles, and <mark>documented</mark> following <mark>PEP</mark> guidelines.
-
-        description: | # this will include new lines to allow paragraphs
-          Description about the project in progress.
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
