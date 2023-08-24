@@ -90,8 +90,21 @@ content:
           - title:  Github page for project
             icon: fab fa-github
             url: https://github.com/MauricioCantoSosa/Wikipedia-Answering-Bot
+        quote: >
+          A custom knowledge <mark>LLM</mark>, powered by OpenAI.
         description: | # this will include new lines to allow paragraphs
-          Description about the work in progress.
+          A Chat-bot that can answer any question from any Wikipedia article.
+          The application uses <mark>Langchain</mark> to get OpenAI <mark>Embeddings</mark>, and access the <mark>Vector Database</mark> <mark>Pinecone</mark>.
+          The user is  prompted to enter the title of any Wikipedia article  and a question to get answered from information retrieved from the selected article.
+          The Wikipedia article is chunked into smaller documents using Langchain’s recursive character splitter with the same size.
+          The documents are stored into Pinecone as embeddings and a similarity search is performed  to determine which chunks of text are more suitable to answer
+          the user’s question and provide the text with the answer. 
+
+          Although the project is simple and the user has to provide the “custom knowledge” to the application, the idea has potential if
+          embeddings are created from the right information. It could be used by a company to create their own proprietary chatbot for employees
+          or partners to get quick information about certain private company information. It could also be potentially used to create domain expert
+          LLM’s that could help professionals do certain types of jobs faster (e.g. a chatbot with expertise in HP Laptops).
+
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
