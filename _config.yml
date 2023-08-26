@@ -116,7 +116,16 @@ content:
             icon: fab fa-github
             url: https://github.com/MauricioCantoSosa/Machine-Learning-Algorithms-for-Image-Emotion-Classification
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This project’s purpose was to explore the capabilities of different <mark>Machine Learning</mark> classification algorithms to assign the correct
+          displayed emotion on each picture on a face image dataset.
+
+          The ML models were architected using <mark>Scikit-Learn</mark>. In the notebook comparisons were made performing principal component analysis (<mark>PCA</mark>),
+          linear discriminant analysis (<mark>LDA</mark>), and no dimensionality reduction methods. The ML algorithms used were <mark>Naïve Bayes</mark>, <mark>Logistic Regression</mark>,
+          Support Vector Machine (<mark>SVM</mark>). All the combinations of algorithms and dimensionality reduction methods were compared to localize the one with the best results for the task,
+          as well as explore the reasons why some combinations worked and did not work well.
+
+          The task would have been better performed by a <mark>Neural Network</mark>, but the purpose of the project was to explore certain ML algorithms and understand their strengths and weaknesses.
+
       - layout: top-middle
         title: Check out my Github to see the rest of my projects.
         link: https://github.com/MauricioCantoSosa
