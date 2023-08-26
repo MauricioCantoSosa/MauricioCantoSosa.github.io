@@ -173,7 +173,18 @@ content:
         sub_title: Graduate Degree in Artificial Intelligence and Machine Learning
         caption: Jan 2022 - Aug 2023
         description: | # this will include new lines to allow paragraphs
-          Description In Progress.
+          During my time at Lambton College, I deeply explored the theoretical side of a plethora of <mark>Machine Learning</mark>
+          and <mark>Deep Learning</mark> algorithms, as well as learned how to apply them to real problems and data using <mark>Python</mark>.
+          Some of my courses deviated from the technical side of things and emphasized the business side of Machine Learning (when is it useful, the cost of it, laws, etc). 
+          
+          I developed a lot of projects during my time at Lambton, both coursework and Personal, some of these projects were just <mark>Jupyter notebooks</mark>,
+          and many of them end-to-end projects resembling a real product. Some of the most important skills I learned in Lambton were how to do research in the market
+          you’re working on, and replicating algorithms and methods found in state-of-the-art research papers.
+
+          I also made it to the Dean’s Honour list for two of the three semester I was eligible for it.
+
+          <mark>GPA 3.54 / 4</mark>
+
       - layout: left
         title: Universidad Politécnica de Yucatán
         sub_title: BSc Embedded Systems Engineering
