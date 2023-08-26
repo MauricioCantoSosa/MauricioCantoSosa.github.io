@@ -191,7 +191,22 @@ content:
         sub_title: BSc Embedded Systems Engineering
         caption: Aug 2017 - May 2021
         description: | # this will include new lines to allow paragraphs
-          Description In Progress.
+          My bachelor’s degree had a big focus on microcontrollers and everything surrounding them, that meant I had a go with countless <mark>microcontrollers</mark>,
+          peripherals, actuators, sensors and <mark>communication protocols</mark>. Also, although my university was in Mexico it was bilingual and mainly focused on English,
+          that meant 90% of my classes were in English. 
+
+          I learned lot of things regarding advanced electrical circuits and how to design them, my coursework was also extremely heavy in programming, especially in
+          <mark>C</mark>, as most microcontrollers are programmed in that language. And suffice to say for an Engineering degree, but it was extremely mathematics heavy, which I liked a lot.
+
+          Things ramped up really quickly, we would go from making a simple 16X4 LCD screen game to making our own reflow oven from 0 (Yes, the whole thing) in the same course.
+          I loved the challenges that big projects put me through, it was during my time in university when I discovered how much I thrive when facing difficult projects, I love
+          the process of researching, learning and applying knowledge to solve a problem.
+
+          Some of the not so obvious courses I took were: Computer architecture, research methodology, Signals and Systems, Control Engineering, Data Communication,
+          Computer Networks, Internet of Things, and Wireless Communications. I also achieved Academic Excellency in many semesters and had the highest grades in my program.
+
+          <mark>GPA: 9.5/10</mark>
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
