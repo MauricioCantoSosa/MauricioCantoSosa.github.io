@@ -210,7 +210,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I have not taken the time to write more about myself on this section, but I will soon. Or maybe I'll just changed this and add a skills sections, who knows.
+      When I am not in front of a computer I love to exercise, I go to the gym regularly, but I can never refuse an opportunity to play any sport with friends.
+      I also like and would like to try any kind of outdoor adventure (trekking, rock climbing, mountain biking, etc). I am also an avid gamer, I especially 
+      like RPG, management, and survival games. I’m also taking the time to learn game development as a hobby.
+
+      There is nothing I like more than learning something new every day, if I didn’t learn anything that day, I feel like I wasted it. But the most important piece
+      of information about me is that I have a cat named <mark>Chester</mark>. I love animals by the way, even the ones that scare me.
+
 
 # Footer
 footer_show_references: false
